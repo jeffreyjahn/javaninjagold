@@ -1,0 +1,39 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 0 auto,
+}
+    .events{
+        border: black 2px solid;
+        display: inline-block;
+        width: 20%;
+        margin: 5px;
+        text-align: center;
+    }
+    h3{
+        color: Black;
+        text-align: center;
+        margin: auto,
+    }
+    #win{
+        background-color: green;
+        border: 5px solid black;
+        height: 200px;
+        width:200px;
+        margin: 0 auto;
+    }
+    form{
+        margin: 20px;
+    }
+    #logs{
+        width: 95%;
+        height: 200px;
+        overflow-y: scroll;
+        text-align: left;
+    }
+    .red{
+        color:red;
+    }
+    .green{
+        color:green;
+    }
